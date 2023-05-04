@@ -1,0 +1,4 @@
+How to do "GO GET" from private repositories:
+```
+GOPRIVATE=github.com/morheus9/partfolio go get github.com/morheus9/partfolio
+```
